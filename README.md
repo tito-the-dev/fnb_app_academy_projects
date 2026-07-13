@@ -52,8 +52,3 @@ If you see that message, your development environment is set up correctly! 🎉
 
 ---
 
-## Next Steps
-
-- [ ] Add project description
-- [ ] Add installation instructions for project dependencies
-- [ ] Add usage examples
