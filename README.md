@@ -1,4 +1,4 @@
-# Project Instructions
+# Lesson Instructions
 
 ## 1. Development Setup
 
