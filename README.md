@@ -1,4 +1,4 @@
-# Project README
+# Project Instructions
 
 ## 1. Development Setup
 
