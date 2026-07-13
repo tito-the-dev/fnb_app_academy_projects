@@ -31,9 +31,9 @@ Before you start, you'll need two things installed on your computer: **Python** 
 Let's make sure everything works by writing and running your first Python program.
 
 1. Open VS Code.
-2. Create a new folder for this project (e.g., `my-project`) and open it in VS Code (`File > Open Folder`).
-3. Inside that folder, create a new file called `hello.py`.
-4. Add the following code to `hello.py`:
+2. Create a new folder for this project (e.g., `development_setup`) and open it in VS Code (`File > Open Folder`).
+3. Inside that folder, create a new file called `1st_exercise.py`.
+4. Add the following code to `1st_exercise.py`:
    ```python
    print("Hello, World!")
    ```
